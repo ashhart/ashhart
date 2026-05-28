@@ -41,8 +41,7 @@ Adaptive-choice nodes (SimpleWeighted, ε-greedy, UCB1, Thompson, Softmax) with 
 
 #### Get in touch
 
-- Email: [me@ashhart.com](mailto:me@ashhart.com)
 - X: [@ashxhart](https://x.com/ashxhart)
 ---
 
-*Recruiters: I'm available for conversations about hard systems problems. The work above is real and current. Reach out at the email above.*
+*Recruiters: I'm available for conversations about hard systems problems. The work above is real and current. DM me on X.*
