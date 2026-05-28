@@ -17,7 +17,8 @@ Predicts Mars launch windows, epidemic onsets, and vaccine timing on **live data
 **⚙️ [Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *Rust decision runtime*
 Adaptive-choice nodes (SimpleWeighted, ε-greedy, UCB1, Thompson, Softmax) with built-in safety rails. Production-shaped, library-light.
 
-**🌑 [Lycan](https://github.com/ashhart/Lycan)** &nbsp;·&nbsp; *<one-line description — fill this in>*
+**🌑 [Lycan](https://github.com/ashhart/Lycan)** &nbsp;·&nbsp; *AI-native execution language on a Rust graph runtime*
+Strategy nodes, capsules, adaptive decisioning. Engine now lives inside Syntra.
 
 ---
 
