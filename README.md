@@ -20,6 +20,9 @@ Adaptive-choice nodes (SimpleWeighted, ε-greedy, UCB1, Thompson, Softmax) with 
 **🌑 [Lycan](https://github.com/ashhart/Lycan)** &nbsp;·&nbsp; *AI-native execution language on a Rust graph runtime*
 Strategy nodes, capsules, adaptive decisioning. Engine now lives inside Syntra.
 
+**📈 [MoEfolio](https://moefolio.ai)** &nbsp;·&nbsp; *mixture-of-experts for trading*
+A bull/bear panel of personas debates stock picks in public; paper trades execute via Alpaca and outcomes hit a public leaderboard. *"A market show with receipts."*
+
 ---
 
 #### How I work
