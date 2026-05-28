@@ -11,8 +11,8 @@ Independent systems engineer. Building small precision systems that the field sa
 **🧬 Synthena** &nbsp;·&nbsp; *post-LLM software synthetic life · not yet public*
 A doctrine-disciplined research program toward synthetic life on a laptop, then a robot body. Hash-anchored corpus, falsifiable promotion gates, no overclaim. Targeting ALife 2026.
 
-**🌪 [Syntra](https://github.com/ashhart/Syntra)** &nbsp;·&nbsp; *edge-of-chaos forecasting*
-Predicts Mars launch windows, epidemic onsets, and vaccine timing on **live data** — not historical backfits. Live demos in the repo.
+**🌪 [Syntra](https://github.com/ashhart/Syntra)** &nbsp;·&nbsp; *adaptive decision runtime*
+Runnable proof demos: live NASA/JPL HORIZONS Mars planner, edge-of-chaos numerical detection, pandemic-policy simulator, anomaly routing, autoscaling, and LLM routing.
 
 **⚙️ [Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *Rust decision runtime*
 Adaptive-choice nodes (SimpleWeighted, ε-greedy, UCB1, Thompson, Softmax) with built-in safety rails. Production-shaped, library-light.
