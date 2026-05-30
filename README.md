@@ -2,7 +2,9 @@
 
 I build AI systems that operate in the real world.
 
-My work sits across AI systems architecture, platform engineering, DevOps, cybersecurity, IoT operations, enterprise integrations, and research engineering. I design the runtime, wire the infrastructure, secure the boundaries, integrate the business systems, and turn messy operational workflows into intelligent, measurable platforms.
+My work sits across AI systems architecture, platform engineering, DevOps, cybersecurity, connected-device operations, business-system integration, and research engineering. I design the runtime, wire the infrastructure, secure the boundaries, integrate existing systems, and turn messy operational workflows into intelligent, measurable platforms.
+
+I specialise in private/local AI systems where sensitive data, infrastructure access, and business workflows need to stay controlled.
 
 > The interesting part is not prompting a model.  
 > The interesting part is building the system around it — securely, observably, and in production.
@@ -14,8 +16,8 @@ My work sits across AI systems architecture, platform engineering, DevOps, cyber
 - **AI systems architecture:** agent runtimes, RAG, model routing, MCP integrations, local LLM infrastructure, evaluation loops.
 - **Platform & DevOps:** AWS, Linux, Docker, systemd, Cloudflare, CI/CD, observability, backups, deployment automation.
 - **Cybersecurity:** threat modelling, secure agent boundaries, pentesting workflows, policy gates, audit trails, secret handling, access control.
-- **Backend & integrations:** APIs, CRM workflows, IoT telemetry, webhooks, authentication, database design.
-- **Operational intelligence:** dashboards, anomaly detection, SLA tracking, diagnostics, support automation, account intelligence.
+- **Backend systems:** API design, authentication, data modelling, workflow automation, event handling, and integration architecture.
+- **Operational intelligence:** dashboards, anomaly detection, SLA tracking, diagnostics, support automation, and account intelligence.
 - **Research engineering:** controlled experiments, matched arms, falsifiers, evidence chains, local model labs, LoRA and state-continuity work.
 
 ---
@@ -52,8 +54,8 @@ A public paper-trading research desk where multiple AI personas debate stock pic
 
 #### Get in touch
 
+Open to senior, staff, principal, founding, or consulting conversations around AI systems architecture, agent infrastructure, platform engineering, secure automation, private/local AI, and operational intelligence.
+
 - X: [@ashxhart](https://x.com/ashxhart)
 
----
-
-*Recruiters: I'm available for conversations about hard systems problems. The work above is real and current. DM me on X.*
+*The work above is real, current, and built with AI as a force multiplier.*
