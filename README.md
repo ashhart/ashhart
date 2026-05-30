@@ -8,7 +8,7 @@ Independent systems engineer. Building small precision systems that the field sa
 
 #### Current focus
 
-**🧬 Synthena** &nbsp;·&nbsp; *post-LLM software synthetic life · not yet public*
+**🧬 [Synthena](https://synthena.ai/)** &nbsp;·&nbsp; *post-LLM software synthetic life · not yet public*
 A doctrine-disciplined research program toward synthetic life on a laptop, then a robot body. Hash-anchored corpus, falsifiable promotion gates, no overclaim. Targeting ALife 2026.
 
 **🌪 [Syntra](https://github.com/ashhart/Syntra)** &nbsp;·&nbsp; *adaptive decision runtime*
