@@ -8,8 +8,8 @@ Independent systems engineer. Building small precision systems that the field sa
 
 #### Current focus
 
-**🧬 [Synthena](https://synthena.ai/)** &nbsp;·&nbsp; *post-LLM software synthetic life · not yet public*
-A doctrine-disciplined research program toward synthetic life on a laptop, then a robot body. Hash-anchored corpus, falsifiable promotion gates, no overclaim. Targeting ALife 2026.
+**🧬 [Synthena](https://synthena.ai/)** &nbsp;·&nbsp; *Artificial Life with an LLM in a custom harness*
+A doctrine-disciplined attempt to achieve Artificial Life by giving a stateless language model persistent memory, embodiment, mortality, lineage, and hostile controls. Software organism first; robot body last.
 
 **🌪 [Syntra](https://github.com/ashhart/Syntra)** &nbsp;·&nbsp; *adaptive decision runtime*
 Runnable proof demos: live NASA/JPL HORIZONS Mars planner, edge-of-chaos numerical detection, pandemic-policy simulator, anomaly routing, autoscaling, and LLM routing.
