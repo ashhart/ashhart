@@ -7,7 +7,22 @@ My work sits across AI systems architecture, platform engineering, DevOps, cyber
 I specialise in private/local AI systems where sensitive data, infrastructure access, and business workflows need to stay controlled.
 
 > The interesting part is not prompting a model.  
-> The interesting part is building the system around it — securely, observably, and in production.
+> The interesting part is building the system around it: securely, observably, and in production.
+
+---
+
+#### Toolbox
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -48,13 +63,13 @@ A public paper-trading research desk where multiple AI personas debate stock pic
 - **Security-aware.** I treat tools, credentials, user data, model output, and automation boundaries as first-class risk surfaces.
 - **Operations-grounded.** I build for real workflows: support teams, devices, customers, SLAs, audits, integrations, and failures.
 - **AI-leveraged.** I use agents aggressively to move faster, while retaining ownership of architecture, tests, security, and claims.
-- **Evidence-disciplined.** Claims need controls. Findings need artifacts. Nulls and retractions stay visible.
+- **Evidence-disciplined.** Claims need controls. Findings need artefacts. Nulls and retractions stay visible.
 
 ---
 
 #### Get in touch
 
-Open to senior, staff, principal, founding, or consulting conversations around AI systems architecture, agent infrastructure, platform engineering, secure automation, private/local AI, and operational intelligence.
+Open to senior, staff, principal, founding engineer, or consulting conversations around AI systems architecture, agent infrastructure, platform engineering, secure automation, private/local AI, and operational intelligence.
 
 - X: [@ashxhart](https://x.com/ashxhart)
 
