@@ -18,13 +18,12 @@ I specialise in private/local AI systems where sensitive data, infrastructure ac
 ![RAG](https://img.shields.io/badge/-RAG-0F766E?style=flat-square&logo=readthedocs&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-1F2937?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Model Routing](https://img.shields.io/badge/-Model_Routing-7C3AED?style=flat-square&logo=routeros&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Agent Safety](https://img.shields.io/badge/-Agent_Safety-991B1B?style=flat-square&logo=dotenv&logoColor=white)
+![Operational Intelligence](https://img.shields.io/badge/-Operational_Intelligence-0369A1?style=flat-square&logo=grafana&logoColor=white)
+![Stateful Systems](https://img.shields.io/badge/-Stateful_Systems-312E81?style=flat-square&logo=databricks&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
