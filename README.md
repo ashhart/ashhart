@@ -53,6 +53,9 @@ An investigation into continuity, memory, embodiment, persistent state, mortalit
 **[Stash](https://github.com/ashhart/Stash)** &nbsp;·&nbsp; *AI coding session manager*  
 A practical tool for resuming Claude, Codex, and OpenCode sessions across projects.
 
+**[Savvy Mover](https://savvymover.co.uk)** &nbsp;·&nbsp; *home-move operating layer*  
+A live UK property pilot for coordinating the messy part after "offer accepted": listings, private sales, parties, documents, milestones, chain visibility, blockers, and AI-assisted chasers in one shared move room.
+
 **[MoEfolio](https://moefolio.ai)** &nbsp;·&nbsp; *AI market debate experiment*  
 A public paper-trading research desk where multiple AI personas debate stock picks, execute simulated trades, and track outcomes.
 
