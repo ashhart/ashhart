@@ -48,7 +48,10 @@ Demos include LLM routing, anomaly routing, autoscaling, pandemic-policy simulat
 Host-side policy and safety primitives for agent platforms: capability policy, approvals, audit logs, run budgets, and session-aware lethal-trifecta detection.
 
 **[Synthena AI](https://synthena.ai/)** &nbsp;·&nbsp; *public AI research lab*  
-Open research into stateful LLM systems, machine continuity, and honesty-bounded medical AI. Includes [Synthena Medical](https://synthena.ai/medical/), an in-silico drug-discovery engine that produces capped, wet-lab-ready hypotheses while refusing cure, efficacy, or clinical claims.
+Open research into stateful LLM systems, machine continuity, embodiment, persistent memory, mortality, lineage, and honesty-bounded AI systems.
+
+**[Synthena Medical](https://synthena.ai/medical/)** &nbsp;·&nbsp; *honesty-bounded drug-discovery engine*  
+An in-silico medical AI system that produces capped, wet-lab-ready hypotheses while refusing cure, efficacy, or clinical claims. Built around mechanistic modelling, fabrication checks, claim ladders, and hard stop rules.
 
 **[Stash](https://github.com/ashhart/Stash)** &nbsp;·&nbsp; *AI coding session manager*  
 A practical tool for resuming Claude, Codex, and OpenCode sessions across projects.
