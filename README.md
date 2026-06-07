@@ -47,8 +47,8 @@ Demos include LLM routing, anomaly routing, autoscaling, pandemic-policy simulat
 **[Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *security layer for LLM agents*  
 Host-side policy and safety primitives for agent platforms: capability policy, approvals, audit logs, run budgets, and session-aware lethal-trifecta detection.
 
-**[Synthena](https://synthena.ai/)** &nbsp;·&nbsp; *public research notebook*  
-An investigation into continuity, memory, embodiment, persistent state, mortality, and lineage in language-model-based systems. Not an AGI claim, consciousness claim, or life claim.
+**[Synthena AI](https://synthena.ai/)** &nbsp;·&nbsp; *public AI research lab*  
+Open research into stateful LLM systems, machine continuity, and honesty-bounded medical AI. Includes [Synthena Medical](https://synthena.ai/medical/), an in-silico drug-discovery engine that produces capped, wet-lab-ready hypotheses while refusing cure, efficacy, or clinical claims.
 
 **[Stash](https://github.com/ashhart/Stash)** &nbsp;·&nbsp; *AI coding session manager*  
 A practical tool for resuming Claude, Codex, and OpenCode sessions across projects.
