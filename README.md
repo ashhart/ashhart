@@ -1,10 +1,6 @@
 ### Ash Hart
 
-I build AI systems that operate in the real world.
-
-My work sits across AI systems architecture, platform engineering, DevOps, cybersecurity, connected-device operations, business-system integration, and research engineering. I design the runtime, wire the infrastructure, secure the boundaries, integrate existing systems, and turn messy operational workflows into intelligent, measurable platforms.
-
-I specialise in private/local AI systems where sensitive data, infrastructure access, and business workflows need to stay controlled.
+Independent AI systems architect building local-first AI tools, governed inference infrastructure, and experimental research systems.
 
 > The interesting part is not prompting a model.  
 > The interesting part is building the system around it: securely, observably, and in production.
@@ -27,57 +23,19 @@ I specialise in private/local AI systems where sensitive data, infrastructure ac
 
 ---
 
-#### Core strengths
-
-- **AI systems architecture:** agent runtimes, RAG, model routing, MCP integrations, local LLM infrastructure, evaluation loops.
-- **Platform & DevOps:** AWS, Linux, Docker, systemd, Cloudflare, CI/CD, observability, backups, deployment automation.
-- **Cybersecurity:** threat modelling, secure agent boundaries, pentesting workflows, policy gates, audit trails, secret handling, access control.
-- **Backend systems:** API design, authentication, data modelling, workflow automation, event handling, and integration architecture.
-- **Operational intelligence:** dashboards, anomaly detection, SLA tracking, diagnostics, support automation, and account intelligence.
-- **Research engineering:** controlled experiments, matched arms, falsifiers, evidence chains, local model labs, LoRA and state-continuity work.
-
----
-
 #### Selected public work
 
-**[Syntra](https://github.com/ashhart/Syntra)** &nbsp;·&nbsp; *adaptive decision runtime*  
-Self-hosted decision infrastructure for context-aware policy execution, model routing, delayed-feedback learning, persistence, auditability, and operational decision loops.  
-Demos include LLM routing, anomaly routing, autoscaling, pandemic-policy simulation, live NASA/JPL HORIZONS Mars planning, and edge-of-chaos numerical detection.
+**[Synthena](https://synthena.ai/)** &nbsp;·&nbsp; *frontier research / experimental science*  
+Experimental work on stateful AI systems, machine continuity, embodiment, persistent memory, mortality, lineage, and honesty-bounded behaviour.
 
-**[Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *security layer for LLM agents*  
-Host-side policy and safety primitives for agent platforms: capability policy, approvals, audit logs, run budgets, and session-aware lethal-trifecta detection.
+**[Synthena Medical](https://synthena.ai/medical/)** &nbsp;·&nbsp; *applied AI + measurement discipline*  
+Applied medical-research tooling built around capped claims, mechanistic hypotheses, fabrication checks, evidence ladders, and wet-lab-ready outputs.
 
-**[Synthena AI](https://synthena.ai/)** &nbsp;·&nbsp; *public AI research lab*  
-Open research into stateful LLM systems, machine continuity, embodiment, persistent memory, mortality, lineage, and honesty-bounded AI systems.
+**[InferenceMon](https://github.com/ashhart/InferenceMon)** &nbsp;·&nbsp; *local/private AI infrastructure*  
+Local-first inference monitoring for private AI stacks: usage, latency, model behaviour, health signals, and operational visibility without sending sensitive data out.
 
-**[Synthena Medical](https://synthena.ai/medical/)** &nbsp;·&nbsp; *honesty-bounded drug-discovery engine*  
-An in-silico medical AI system that produces capped, wet-lab-ready hypotheses while refusing cure, efficacy, or clinical claims. Built around mechanistic modelling, fabrication checks, claim ladders, and hard stop rules.
+**[Syntra](https://github.com/ashhart/Syntra)** / **[Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *governance, routing, risk, control planes*  
+Runtime layers for governed AI systems: policy execution, model routing, approvals, audit logs, run budgets, risk controls, and operational decision loops.
 
-**[Stash](https://github.com/ashhart/Stash)** &nbsp;·&nbsp; *AI coding session manager*  
-A practical tool for resuming Claude, Codex, and OpenCode sessions across projects.
-
-**[Savvy Mover](https://savvymover.co.uk)** &nbsp;·&nbsp; *home-move operating layer*  
-A live UK property pilot for coordinating the messy part after "offer accepted": listings, private sales, parties, documents, milestones, chain visibility, blockers, and AI-assisted chasers in one shared move room.
-
-**[MoEfolio](https://moefolio.ai)** &nbsp;·&nbsp; *AI market debate experiment*  
-A public paper-trading research desk where multiple AI personas debate stock picks, execute simulated trades, and track outcomes.
-
----
-
-#### How I work
-
-- **Runtime-first.** I build the control layer around AI: what it can see, do, remember, call, and affect.
-- **Security-aware.** I treat tools, credentials, user data, model output, and automation boundaries as first-class risk surfaces.
-- **Operations-grounded.** I build for real workflows: support teams, devices, customers, SLAs, audits, integrations, and failures.
-- **AI-leveraged.** I use agents aggressively to move faster, while retaining ownership of architecture, tests, security, and claims.
-- **Evidence-disciplined.** Claims need controls. Findings need artefacts. Nulls and retractions stay visible.
-
----
-
-#### Get in touch
-
-Open to senior, staff, principal, founding engineer, or consulting conversations around AI systems architecture, agent infrastructure, platform engineering, secure automation, private/local AI, and operational intelligence.
-
-- X: [@ashxhart](https://x.com/ashxhart)
-
-*The work above is real, current, and built with AI as a force multiplier.*
+**[Draftly](https://github.com/ashhart/Draftly)** &nbsp;·&nbsp; *user-facing product polish*  
+A product-focused writing workflow shaped around clean interaction design, practical AI assistance, and a calm user experience.
