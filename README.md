@@ -34,6 +34,9 @@ Applied medical-research tooling built around capped claims, mechanistic hypothe
 **[InferenceMon](https://github.com/ashhart/InferenceMon)** &nbsp;·&nbsp; *local/private AI infrastructure*  
 Local-first inference monitoring for private AI stacks: usage, latency, model behaviour, health signals, and operational visibility without sending sensitive data out.
 
+**[TensorFold](https://github.com/ashhart/TensorFold)** &nbsp;·&nbsp; *memory-constrained local inference*  
+Local-first runtime work for running sparse MoE language models under tight memory budgets, with bounded resident memory, explicit paging, and runtime telemetry.
+
 **[Syntra](https://github.com/ashhart/Syntra)** / **[Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *governance, routing, risk, control planes*  
 Runtime layers for governed AI systems: policy execution, model routing, approvals, audit logs, run budgets, risk controls, and operational decision loops.
 
