@@ -39,6 +39,3 @@ Local-first runtime work for running sparse MoE language models on Apple silicon
 
 **[Syntra](https://github.com/ashhart/Syntra)** / **[Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *governance, routing, risk, control planes*  
 Runtime layers for governed AI systems: policy execution, model routing, approvals, audit logs, run budgets, risk controls, and operational decision loops.
-
-**[Draftly](https://github.com/ashhart/Draftly)** &nbsp;·&nbsp; *user-facing product polish*  
-A product-focused writing workflow shaped around clean interaction design, practical AI assistance, and a calm user experience.
