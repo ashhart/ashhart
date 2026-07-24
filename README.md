@@ -25,14 +25,14 @@ Independent AI systems architect building local-first AI tools, governed inferen
 
 #### Selected public work
 
-**[Synthena](https://synthena.ai/)** &nbsp;·&nbsp; *frontier research / experimental science*  
+**Synthena** &nbsp;·&nbsp; *frontier research / experimental science*  
 Experimental work on stateful AI systems, machine continuity, embodiment, persistent memory, mortality, lineage, and honesty-bounded behaviour.
 
-**[Synthena Medical](https://synthena.ai/medical/)** &nbsp;·&nbsp; *applied AI + measurement discipline*  
+**Synthena Medical** &nbsp;·&nbsp; *applied AI + measurement discipline*  
 Applied medical-research tooling built around capped claims, mechanistic hypotheses, fabrication checks, evidence ladders, and wet-lab-ready outputs.
 
-**[InferenceMon](https://github.com/ashhart/InferenceMon)** &nbsp;·&nbsp; *local/private AI infrastructure*  
-Local-first inference monitoring for private AI stacks: usage, latency, model behaviour, health signals, and operational visibility without sending sensitive data out.
+**[Vantra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
+Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
 
 **[TensorFold](https://github.com/ashhart/TensorFold)** &nbsp;·&nbsp; *Apple silicon / MLX local inference*  
 Local-first runtime work for running sparse MoE language models on Apple silicon with MLX under tight memory budgets, with bounded resident memory, explicit paging, and runtime telemetry.
