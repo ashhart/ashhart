@@ -31,7 +31,7 @@ Experimental work on stateful AI systems, machine continuity, embodiment, persis
 **Synthena Medical** &nbsp;·&nbsp; *applied AI + measurement discipline*  
 Applied medical-research tooling built around capped claims, mechanistic hypotheses, fabrication checks, evidence ladders, and wet-lab-ready outputs.
 
-**[Vantra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
+**[Vontra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
 Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
 
 **[TensorFold](https://github.com/ashhart/TensorFold)** &nbsp;·&nbsp; *Apple silicon / MLX local inference*  
