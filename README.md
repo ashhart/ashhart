@@ -1,6 +1,6 @@
 ### Ash Hart
 
-Independent AI systems architect building local-first AI tools, governed inference infrastructure, and experimental research systems.
+Independent AI systems architect building local first AI tools, governed inference infrastructure, and experimental research systems.
 
 > The interesting part is not prompting a model.  
 > The interesting part is building the system around it: securely, observably, and in production.
@@ -23,19 +23,8 @@ Independent AI systems architect building local-first AI tools, governed inferen
 
 ---
 
-#### Selected public work
-
-**Synthena** &nbsp;·&nbsp; *frontier research / experimental science*  
-Experimental work on stateful AI systems, machine continuity, embodiment, persistent memory, mortality, lineage, and honesty-bounded behaviour.
-
-**Synthena Medical** &nbsp;·&nbsp; *applied AI + measurement discipline*  
-Applied medical-research tooling built around capped claims, mechanistic hypotheses, fabrication checks, evidence ladders, and wet-lab-ready outputs.
-
 **[Vontra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
 Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
 
 **[TensorFold](https://github.com/ashhart/TensorFold)** &nbsp;·&nbsp; *Apple silicon / MLX local inference*  
 Local-first runtime work for running sparse MoE language models on Apple silicon with MLX under tight memory budgets, with bounded resident memory, explicit paging, and runtime telemetry.
-
-**[Syntra](https://github.com/ashhart/Syntra)** / **[Portreeve](https://github.com/ashhart/Portreeve)** &nbsp;·&nbsp; *governance, routing, risk, control planes*  
-Runtime layers for governed AI systems: policy execution, model routing, approvals, audit logs, run budgets, risk controls, and operational decision loops.
