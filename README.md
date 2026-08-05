@@ -22,6 +22,7 @@ Independent AI systems architect building local first AI tools, governed inferen
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
+**Public Work**
 
 **[Vontra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
 Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
