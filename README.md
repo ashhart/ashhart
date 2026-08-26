@@ -1,28 +1,16 @@
-### Ash Hart
+# Ash Hart
 
-Local AI engineer building across Apple silicon and NVIDIA hardware. MLX, CUDA, inference runtimes, benchmarks and agent security.
+I build and test local AI systems on Apple silicon and NVIDIA hardware. My work
+covers MLX, CUDA, mixed-hardware inference, local agents and runtime security.
 
 > The interesting part is not prompting a model.  
-> The interesting part is building the system around it: securely, observably, and in production.
+> The interesting part is building the system around it securely, observably
+> and in production.
 
----
+[Build logs on X](https://x.com/ashxhart) ·
+[Models on Hugging Face](https://huggingface.co/Vontra)
 
-#### Toolbox
-
-![AI Agents](https://img.shields.io/badge/-AI_Agents-4B5563?style=flat-square&logo=openai&logoColor=white)
-![Local LLMs](https://img.shields.io/badge/-Local_LLMs-111827?style=flat-square&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-0F766E?style=flat-square&logo=readthedocs&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-1F2937?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Model Routing](https://img.shields.io/badge/-Model_Routing-7C3AED?style=flat-square&logo=routeros&logoColor=white)
-![Agent Safety](https://img.shields.io/badge/-Agent_Safety-991B1B?style=flat-square&logo=dotenv&logoColor=white)
-![Operational Intelligence](https://img.shields.io/badge/-Operational_Intelligence-0369A1?style=flat-square&logo=grafana&logoColor=white)
-![Stateful Systems](https://img.shields.io/badge/-Stateful_Systems-312E81?style=flat-square&logo=databricks&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-**Public Work**
+## Current experiments
 
 **[Vontra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
 Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
