@@ -1,6 +1,6 @@
 ### Ash Hart
 
-Independent AI systems architect building local first AI tools, governed inference infrastructure, and experimental research systems.
+Local AI engineer building across Apple silicon and NVIDIA hardware. MLX, CUDA, inference runtimes, benchmarks and agent security.
 
 > The interesting part is not prompting a model.  
 > The interesting part is building the system around it: securely, observably, and in production.
