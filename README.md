@@ -8,11 +8,11 @@ covers MLX, CUDA, mixed-hardware inference, local agents and runtime security.
 > and in production.
 
 [Build logs on X](https://x.com/ashxhart) ·
-[Models on Hugging Face](https://huggingface.co/Vontra)
+[Models on Hugging Face](https://huggingface.co/TensorFold)
 
 ## Current experiments
 
-**[Vontra](https://huggingface.co/Vontra)** &nbsp;·&nbsp; *local inference enablement*  
+**[Vontra](https://huggingface.co/TensorFold)** &nbsp;·&nbsp; *local inference enablement*  
 Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
 
 **[TensorFold](https://github.com/ashhart/TensorFold)** &nbsp;·&nbsp; *Apple silicon / MLX local inference*  
