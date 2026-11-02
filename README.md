@@ -12,7 +12,7 @@ covers MLX, CUDA, mixed-hardware inference, local agents and runtime security.
 
 ## Current experiments
 
-**[Vontra](https://huggingface.co/TensorFold)** &nbsp;·&nbsp; *local inference enablement*  
+**[TensorFold LLM's](https://huggingface.co/TensorFold)** &nbsp;·&nbsp; *local inference enablement*  
 Helping make local inference more accessible through MLX model creation, testing, validation, and distribution.
 
 **[TensorFold](https://github.com/ashhart/TensorFold)** &nbsp;·&nbsp; *Apple silicon / MLX local inference*  
